@@ -4,7 +4,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 58%"/>
 </div>  
 <h1 align="center">Hi 👋, I'm Kris Prajapati</h1>
-<h3 align="center">A passionate developer who has willingness to explore more and learn</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin027&label=Profile%20views&color=0e75b6&style=flat" alt="sachin027" /> </p>
 
@@ -53,8 +52,13 @@ About me
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prajapatikris&show_icons=true&locale=en" alt="prajapatikris" /></p>
-
+<p>&nbsp;
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatikris&hide_border=true&layout=compact" align="center" /></div>  
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajapatikris&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br>
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatikris&" alt="prajapatikris" />
 
 
 
