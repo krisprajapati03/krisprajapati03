@@ -20,7 +20,7 @@ About me
 
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> <br><br> Connect with me
 <p align="left">
-<a href="https://www.linkedin.com/in/kris-prajapati-858a0b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin kanzariya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kris-prajapati-858a0b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kris Prajapati" height="30" width="40" /></a>
 <a href="https://instagram.com/ll__.kris.__ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll__.kris.__ll" height="30" width="40" /></a>
 
 </p>
