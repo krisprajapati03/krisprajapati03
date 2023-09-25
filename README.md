@@ -5,7 +5,7 @@
 </div>  
 <h1 align="center">Hi 👋, I'm Kris Prajapati</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin027&label=Profile%20views&color=0e75b6&style=flat" alt="sachin027" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatikris&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatikris" /> </p>
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> <br>
 About me
@@ -42,7 +42,7 @@ About me
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="left">
-  <a href="[https://www.figma.com/](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1191077466319066832)" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <a href="https://www.figma.com/files/user/1191077466319066832?fuid=1191077466319066832" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
