@@ -42,7 +42,7 @@ About me
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="left">
-  <a href="https://www.figma.com/files/user/1191077466319066832?fuid=1191077466319066832" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <a href="https://www.figma.com/files/user/1191077466319066832?fuid=1191077466319066832" target="_parent"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
