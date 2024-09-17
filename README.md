@@ -18,18 +18,21 @@ About me
 - 🤓 Always learning new things.
 - this is [MY RESUME]
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> <br><br> Connect with me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> <br><br> 
+Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/kris-prajapati-858a0b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kris Prajapati" height="30" width="40" /></a>
 <a href="https://instagram.com/ll__.kris.__ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll__.kris.__ll" height="30" width="40" /></a>
 
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
 
+My Skills
 
-
-<h3 align="left">Languages:</h3>
+<h3 align="left">
+ Languages:
+</h3>
 <p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> 
@@ -39,7 +42,9 @@ About me
  </p>
 
 
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  
+ 
+ Software & Tools
  
 <p align="left">
   <a href="https://www.figma.com/files/user/1191077466319066832?fuid=1191077466319066832" target="_parent"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -49,13 +54,16 @@ About me
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
   &emsp;
 
-<p>&nbsp;
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatikris&hide_border=true&layout=compact" align="center" /></div>  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisprajapati03&hide_border=true&layout=compact" align="center" /></div>  
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=prajapatikris&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krisprajapati03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajapatikris&" alt="prajapatikris" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisprajapati03&" alt="krisprajapati" />
+</div>  
+
+<br />
 
 
 
