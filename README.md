@@ -1,66 +1,87 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 58%"/>
-</div>  
-<h1 align="center">Hi 👋, I'm Kris Prajapati</h1>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<h1 align="center">Hi 👋, I'm kris Prajapati</h1>
+<h3 align="center">Exploring the Boundless Horizons of Computer Science</h3>
+<p align="center">🌐 Fascinated by the transformative power of computer technology, I have been passionate about software engineering from an early age. My enthusiasm for the field has only grown over time. 💻 I love exploring new tech stacks and leveraging them to build cool stuff. 🛠️</p>
+<img align="right" width="400" alt="Profile Picture" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajapatikris&label=Profile%20views&color=0e75b6&style=flat" alt="prajapatikris" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="martin-prajapati" /> </p>
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> <br>
-About me
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
-<br><br>
+- 🎓 I'm pursuing a Bachelor's in Computer Engineering from Government Engineering College Rajkot.
 
 - 🌱 I’m currently learning **DSA and WEB**
+  
 - 📫 How to reach me **krisprajapati99@gmail.com**
+  
 - 🤓 Always learning new things.
-- this is [MY RESUME]
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> <br><br> 
-Connect with me
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
 <p align="left">
-<a href="https://www.linkedin.com/in/kris-prajapati-858a0b252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kris Prajapati" height="30" width="40" /></a>
-<a href="https://instagram.com/ll__.kris.__ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ll__.kris.__ll" height="30" width="40" /></a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py" />
+  </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
-
-My Skills
-
-<h3 align="left">
- Languages:
-</h3>
-<p align="left"> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
- </p>
-
-
- ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  
- 
- Software & Tools
- 
+- Frontend
 <p align="left">
-  <a href="https://www.figma.com/files/user/1191077466319066832?fuid=1191077466319066832" target="_parent"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  &emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,materialui,bootstrap" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,firebase" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,idea,vscode,linux" />
+  </a>
+</p>
+
+<br/>
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisprajapati03&hide_border=true&layout=compact" align="center" /></div>  
+
+## Connect with me  
+
+<div align="center">
+<a href="https://github.com/krisprajapati03" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/kris_prajapati09" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/kris-prajapati-858a0b252/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://hashnode.com/@krisprajapati" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+</div>
+
+## Github Stats  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisprajapati03&hide_border=true&layout=compact&theme=midnight-purple" align="center" /></div>  
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krisprajapati03&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=krisprajapati03&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisprajapati03&" alt="krisprajapati" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisprajapati03&theme=midnight-purple" alt="krisprajapati" />
 </div>  
 
 <br />
