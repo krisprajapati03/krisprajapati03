@@ -5,7 +5,7 @@
 <p align="center">🌐 Fascinated by the transformative power of computer technology, I have been passionate about software engineering from an early age. My enthusiasm for the field has only grown over time. 💻 I love exploring new tech stacks and leveraging them to build cool stuff. 🛠️</p>
 <img align="right" width="400" alt="Profile Picture" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-prajapati&label=Profile%20views&color=0e75b6&style=flat" alt="martin-prajapati" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisprajapati03&label=Profile%20views&color=0e75b6&style=flat" alt="krisprajapati03" /> </p>
 
 - 🎓 I'm pursuing a Bachelor's in Computer Engineering from Government Engineering College Rajkot.
 
@@ -56,8 +56,7 @@
 <br/>
 
 
-
-## Connect with me  
+<h3 align="left">Connect with me:</h3> 
 
 <div align="center">
 <a href="https://github.com/krisprajapati03" target="_blank">
@@ -74,7 +73,7 @@
 </a>  
 </div>
 
-## Github Stats  
+<h3 align="left">GitHub Stats:</h3>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisprajapati03&hide_border=true&layout=compact&theme=midnight-purple" align="center" /></div>  
 <br>
